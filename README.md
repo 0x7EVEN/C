@@ -1,2 +1,2 @@
 # C
-My attempts to say hello to world in different way.
+My attempt to say hello to world in different way.
